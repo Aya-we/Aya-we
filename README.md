@@ -1,4 +1,4 @@
-## Welcome 👋
+## Hi there 👋
 
 <!--
 # 💫 About Me:
