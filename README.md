@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 # 💫 About Me:
 👋 Hi, I’m Aya, a Full-Stack Developer and co-founder of IGU — I Got U.<br><br>💻 I work on websites, social media management, and digital design.<br><br>🎨 I combine development and creativity to help brands build their online presence.<br><br>💬 Ask me about web development, content creation, and visual identity.
 
@@ -28,4 +27,4 @@
 [![](https://komarev.com/ghpvc/?username=Aya-we&icon=4&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
